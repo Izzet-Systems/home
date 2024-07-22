@@ -1,0 +1,40 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio_mission.png"
+    # pretitle: "Portfolio Service"
+    title: "Our Mission 我們的使命"
+    text: "整合您企業內部的龐雜數據，透過AI輔助轉化為清晰易懂的圖表、並產生建議與分析。讓您輕鬆掌握營運狀況、找出問題，每個決策都有數據佐證，提升企業競爭力。"
+    # 
+
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/portfolio_product.png"
+    # pretitle: "Portfolio Service"
+    title: "Our Products 我們的產品"
+    text: "定捷創深知資訊安全的重要性，我們確保您在朝向數位轉型的路上，商業機密和公司資料也得到完善保護。"
+
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/portfolio_about.png"
+    # pretitle: "Portfolio Service"
+    title: "About Us 關於我們"
+    text: "我們相信：讀懂數據、善用工具，企業能做出更明智的決策。 透過資訊可視與創新，幫助台灣企業在全球競爭中保持領先。"
+
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"

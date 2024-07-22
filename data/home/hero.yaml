@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "讓**資料**成為您企業的**指南針**！"
+  text: "專業的產品設計與解決方案諮詢，幫助客戶實現數位轉型與資訊導向決策目標。我們不但追求技術創新，更在乎使用者體驗。"
+
+  # buttonPrimary:
+  #   label: "How we work"
+  #   url: "#"
+
+  # buttonSecondary:
+  #   label: "Let's talk"
+  #   url: ""
