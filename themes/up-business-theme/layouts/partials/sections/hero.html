@@ -6,10 +6,10 @@
       </div>
       <div class="col-12 col-xl-7 d-flex flex-column justify-content-center">
         {{ with .content.title }}
-          <h3 class="hero-title fw-bold display-3 text-primary text-center text-xl-start pb-4">{{ . | markdownify }}</h3>
+          <h3 class="hero-title fw-bold display-4 text-primary text-center text-xl-start pb-4">{{ . | markdownify }}</h3>
         {{ end }}
         {{ with .content.text }}
-          <p class="display-6 fw-bold text-center text-black-61 text-xl-start pb-4">{{ . | markdownify }}</p>
+          <h2 class="fw-bold text-center text-black-61 text-xl-start pb-4 lh-base">{{ . | markdownify }}</h2>
         {{ end }}
         <div class="d-flex flex-column flex-xl-row">
           {{ with .content.buttonPrimary }}
